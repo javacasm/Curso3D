@@ -1,0 +1,47 @@
+# Comprar una impresora
+
+## CREALITY ENDER 3 (160-180eu) 
+
+![Ender 3](https://img.staticbg.com/thumb/large/oaupload/banggood/images/15/85/d40f00b0-8905-4d1e-b8cb-737a86e17f68.jpg)
+
+[Videoreview](https://www.youtube.com/watch?v=6LQl-UUEVO8)
+
+## Geeetech A10 3D Printer (160eu)
+
+![A10](https://www.gizlogic.com/wp-content/uploads/2018/09/Geeetech-A10.jpg)
+
+## Anet A8 (130eu)
+
+![Anet a8](https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Distribution/2018/01/09/goods_img_big-v1/20180109121635_60388.jpg)
+
+
+## Anycubics i3 Mega
+
+![anycubis](https://images-na.ssl-images-amazon.com/images/I/611X3q3rWIL._SX425_.jpg)
+
+[Comparativa de impresoras 3D](http://comohacer.eu/comparativa-impresoras-3d/#Comparativa_de_impresoras_3D)
+
+[Otra comparativa](http://buenosybaratos.es/electronica/impresora-3d/las-mejores-impresoras-3d/)
+
+## ¿Dónde comprarlas?
+
+# Recomendados
+
+[Createc3D](https://createc3d.com/shop/es/19-kit-impresoras-3d) Recomendado para quien requiera soporte presencial
+
+[Bq](https://store.bq.com/es/mundo-3d/impresion-3-d/) Variedad de formatos
+
+## Cual elegir
+
+* Según las necesidades
+* Según el uso
+* Según el espacio
+* Según nuestras habilidades
+
+## ¿Nos atrevemos con un kit?
+
+Bq
+
+Createc3D
+
+## Materiales reciclados
