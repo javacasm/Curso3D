@@ -41,3 +41,22 @@
 1. [Conversión 2D a 3D](2d-To-3D.md)
 
 [Mini-Curso de TinkerCad](https://www.youtube.com/playlist?list=PLWFBhjhRekOCKjZvrtUG7M988SZfh9TkJ)
+
+# TODO
+
+* Uso de codeblocks
+
+https://www.instructables.com/Fraction-Action-With-Coding/
+
+* Ejemplo de arreglos sencillos
+
+https://www.instructables.com/Silly-Repairs-and-Improvements-Using-Tinkercad/
+
+## Trucos y teclas
+
+https://weareprintlab.com/blog/5-tinkercad-shortcuts-you-need-to-know
+
+
+## Tutoriales
+
+https://caractermaker.es/category/diseno-3d/
