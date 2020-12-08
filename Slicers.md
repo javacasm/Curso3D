@@ -15,7 +15,7 @@ Preferible el ["Prusa edition"](https://github.com/prusa3d/Slic3r/releases)
 
 [Documentación](http://imprimalia3d.com/recursosimpresion3d/gu-configuraci-n-par-metros-slic3r)
 
-
+[Tutorial](https://bitfab.io/es/blog/prusa-slicer/)
 
 
 [Problemas con las dimensiones](https://manual.slic3r.org/troubleshooting/dimension-errors)
