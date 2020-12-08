@@ -29,7 +29,7 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 ## Contenidos
 
 * Introducción a la impresión 3D
-    * [Origen](./Historia.md.md), desarrollo y actualidad
+    * [Origen](./Historia.md), desarrollo y actualidad
     * [Aplicaciones](./Aplicaciones.md)
     * [Tecnologías de impresión](./Tecnologias.md)
     * [Tipos de impresoras](./Impresoras3D.md) y [geometrías](./Geometrias.md)
