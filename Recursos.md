@@ -1,0 +1,6 @@
+[3D Builder](https://bitfab.io/es/blog/3d-builder/)
+[Prusa Slicer](https://bitfab.io/es/blog/prusa-slicer/)
+[Reciclado de plásticos](https://bitfab.io/es/blog/reciclar-plastico-impresion-3d/)
+[Alternativas a Thingiverse](https://bitfab.io/es/blog/alternativas-a-thingiverse/)
+[Tinkercad](https://bitfab.io/es/blog/tinkercad/)
+[Tutorial de Cura](https://bitfab.io/es/blog/tutorial-laminado-cura/)
