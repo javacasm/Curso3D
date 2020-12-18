@@ -11,6 +11,8 @@ Ver opciones de control una vez que está funcionando. Ajustes de:
 
 Cambio de filamento a mitad de la impresión
 
+Concepto de extrusión
+
 ## Nivel intermedio
 
 actualizar firmawre
