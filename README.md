@@ -26,46 +26,73 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 * Analizar los distintos programas de laminado del mercado y sus configuraciones.
 * Obtener piezas en distintos materiales para analizar tolerancias, retracciones y calibrado.
 
-## Contenidos
+## [Contenidos](./0.0.0.Indice.md)
 
-* Introducción a la impresión 3D
-    * [Origen](./Historia.md), desarrollo y actualidad
-    * [Aplicaciones](./Aplicaciones.md)
-    * [Tecnologías de impresión](./Tecnologias.md)
-    * [Tipos de impresoras](./Impresoras3D.md) y [geometrías](./Geometrias.md)
-    * [Estructura de la impresora 3D](./impresora3D.md)
-    * [Materiales plásticos para impresión 3D](./Filamentos.md)
-    * [Qué Comprar](./ComprarImpresora3D.md)
-
-* Modelos
-    * [Repositorios de modelos](./repositorios.md)
-    * Software básico de edición.
-    * Introducción al diseño 3d     
-
-* [Proceso de impresión](./ProcesoImpresion3D.md)
-  * [Slicers](./Slicers.md)
-  * [Materiales y sus parámetros](./Filamentos.md)
-
-* [Diseño 3D: TinkerCad](./Tinkercad.md)
-    * [Freecad](./Freecad.md)
-    * [Blender](./Blender.md)
-    * [BlockScad](./BlockScad.md)
-    * [OpenScad](http://www.openscad.org/)
+0. [Introducción a la impresión 3D](./0.0.Introduccion3D.md)
+* [Origen](./0.1.Historia.md), desarrollo y actualidad
+* [Aplicaciones](./0.2.Aplicaciones.md)
+* [Tecnologías de impresión](./0.3Tecnologias3D.md)
+* [Qué Comprar](./0.4.ComprarImpresora3D.md)
 
 
+1. [Proceso de impresión](./1.0.ProcesoImpresion3D.md)
+* [Guía Rápida](./0.5.GuiaRapida.md)
+
+2. Modelos
+* [Repositorios de diseños](./2.0.Repositorios.md)
+    
+3. Programas para imprimir
+* [Slicers](./3.0.Slicers.md)
+* [Cura](./3.1.Cura.md)
+* [PrusaSlicer](./3.2.Prusaslicer.md)
+* [Arregladores de piezas](./3.4.ReparacionPiezas.md)
+
+  
+4. Materiales
+* [Materiales y sus parámetros](./4.0.Filamentos.md)
+* Tipos
+* Usos
+* Calidades y precios
+
+5. Montaje y puesta a punto
+* [Estructura de una impresora](./5.0.EstructuraImpresora3D.md)
+* [Tipos de impresoras](5.1.0.Impresoras3D.md) y [geometrías](./5.1.1.Geometrías.md)
+* [Modelos de impresoras 3D](./5.1.2.Modelos.md)
+* [Montaje](./5.2.Montaje.md)
+* Calibración
+* Pruebas
+
+6. [Uso](./6.0.Uso.md)
+* Menus
+* AutoHome y calibración
+* Impresión
+* Cambio filamento
+* Matenimiento
+    * Limpieza
+    * Engrasado
+    * Ajustes
+    * Tensión de las correas
+* Problemas más frecuentes
+    * Atascos
+    * Falta de calibración
+    * Falta de tensión de las correas
+    * Rotura o falta de ajuste de driver de motores
+    * [Fallos de impresión](./6.8.FallosImpresion.md)
+
+7. Diseño 3D: 
+* Software básico de edición.
+* Introducción al diseño 3d 
+* [TinkerCad](./7.2.Tinkercad.md)
+* [Freecad](./7.3.Freecad.md)
+* [Blender](./7.4.Blender.md)
+* [BlockScad](./7.5.BlockScad.md)
+* [2D to 3D](7.6.2d-To-3D.md)
+    
+    
 
 
-## Recursos
+## [Recursos](./Recursos.md)
 
-[Guía sobre 3D para el docente](https://lacienciaparatodos.files.wordpress.com/2017/10/impresic3b3n-3d-para-profesores-08-10-2017.pdf) de Javier Fernández Panadero
 
-[Tipos de materiales](https://bitfab.io/es/materiales-de-impresion-3d-fdm/)
 
-[Reglas de oro para imprimir desde SketchUp](https://www.iscarnet.com/2016/08/7-reglas-de-oro-para-la-impresion-3d-con-sketchup/)
-
-[Guía de impresión 3D de Prusa Research](https://www.prusa3d.es/wp-content/uploads/principos-basicos-de-impresion-3d.pdf)
-
-[Cursos 3D](https://learn.techclass.courses/courses/take/3d-makers-academy-intro-ES/multimedia/7690419-capitulo-10-acabado-de-objetos-impresos-en-3d)
-
-[Guía de inicio rápido](https://3dmakers.academy/docs/00-3DMA-Guia-del-instructor-v02.pdf)
-
+  
