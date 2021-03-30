@@ -1,6 +1,4 @@
-# Impresión y diseño 3D en educación Primaria
-
-http://bit.ly/3DPrimaria
+# Impresión y diseño 3D 
 
 ### José Antonio Vacas @javacasm
 
