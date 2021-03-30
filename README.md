@@ -32,7 +32,6 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 * [Tecnologías de impresión](./0.3Tecnologias3D.md)
 * [Qué Comprar](./0.4.ComprarImpresora3D.md)
 
-
 1. [Proceso de impresión](./1.0.ProcesoImpresion3D.md)
 * [Guía Rápida](./0.5.GuiaRapida.md)
 
@@ -65,11 +64,14 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 * AutoHome y calibración
 * Impresión
 * Cambio filamento
-* Matenimiento
+* [Proyectos 3D](./6.3.Proyectos3D.md)
+* [Matenimiento](./6.4.Mantenimiento.md)
     * Limpieza
     * Engrasado
     * Ajustes
     * Tensión de las correas
+* [Mejoras de calidad](./6.5.MejoraCalidad.md)
+* [Escaneado 3D](./6.7.Escaneado3D.md)
 * Problemas más frecuentes
     * Atascos
     * Falta de calibración
@@ -86,8 +88,6 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 * [SketchUp](./7.6.SketchUp.md)
 * [2D to 3D](7.9.2d-To-3D.md)
     
-    
-
 
 ## [Recursos](./Recursos.md)
 

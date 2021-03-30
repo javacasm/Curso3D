@@ -1,0 +1,26 @@
+## Proyecto3DHowTo.md
+
+Proyecto multipiezas
+
+* Sé organizado, prepara un listado para ir marcando lo que llevas y saber lo que te falta
+* Define un nivel de calidad y unos parámetros. Prepara todos los gcode con esa configuración
+* Una caja para las piezas
+* Anota los tiempos de cada pieza
+
+
+### Ejemplo: [Motor de cuerda](https://www.instructables.com/id/PLA-Spring-Motor-Demonstrator-2/)
+
+
+|Fichero STL|Necesarios|Hechos|Configuración|Tiempo
+|---|---|---|---|---
+| **Color**|
+|Bolt, Frame.stl|4|4|100% infill, Magenta PLA.|20 min x 4
+|Gear, Idler (50, 1.12).stl|3|2|20% infill, Magenta PLA.|50min x 3
+|Gear, Pawl (50, 1.12).stl|1|0| 20% infill, Magenta PLA.
+|Knob and Axle.stl|1|0| 100% infill, Magenta PLA.
+|Wrench.stl|2|0| 20% infill, Magenta PLA.
+| **Negros**|
+|Frame, Left.stl|1|0| 50% infill, Black Tough PLA.
+|Frame, Right.stl|1|0| 50% infill, Black Tough PLA.
+|Pawl.stl|1|0| 100% infill, Black Tough PLA.
+|Spring.stl|1|0| 100% infill, Black Tough PLA.
