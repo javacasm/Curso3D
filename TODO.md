@@ -1,3 +1,13 @@
+
+# Adherencia
+
+Uso de la base
+* cristal/lamina magnética
+* laca
+
+
+
+
 ## Nivel básico
 
 Uso de cura intermedio
