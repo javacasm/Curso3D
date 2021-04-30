@@ -1,0 +1,1 @@
+Recuerda comprobar el ajuste de las piezas con el parámetro "Expansión XY"
