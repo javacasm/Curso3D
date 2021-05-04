@@ -1,9 +1,13 @@
 [3D Builder](https://bitfab.io/es/blog/3d-builder/)
-[Prusa Slicer](https://bitfab.io/es/blog/prusa-slicer/)
+[Tutorial sobre Prusa Slicer de los expertos de bitfab.io](https://bitfab.io/es/blog/prusa-slicer/)
+
 [Reciclado de plásticos](https://bitfab.io/es/blog/reciclar-plastico-impresion-3d/)
+
 [Alternativas a Thingiverse](https://bitfab.io/es/blog/alternativas-a-thingiverse/)
+
 [Tinkercad](https://bitfab.io/es/blog/tinkercad/)
-[Tutorial de Cura](https://bitfab.io/es/blog/tutorial-laminado-cura/)
+
+[Tutorial sobre Cura de los expertos de bitfab.io](https://bitfab.io/es/blog/tutorial-laminado-cura/)
 
 
 [Guía sobre 3D para el docente](https://lacienciaparatodos.files.wordpress.com/2017/10/impresic3b3n-3d-para-profesores-08-10-2017.pdf) de Javier Fernández Panadero
