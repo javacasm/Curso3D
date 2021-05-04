@@ -27,4 +27,16 @@ No he tenido la suerte de probarla pero muchos makers que sí lo han hecho han q
 
 (Todas las imágenes cortesía de Creality)
 
+## Adaptación de una impresora normal a z-infinito
+
+Ya han aparecido varios tutoriales en los que nos explican como hacer estas transformación, como [este instructable](https://www.instructables.com/EnderLoop/) en el que se explica cómo hacer la transformación:
+
+* Imprimendo [nuevas piezas](https://www.thingiverse.com/thing:4658201)
+* Modificando la geometría
+* Ajustando la cinta
+* Recableando
+* Actualizando el firmware
+* Usando **BlackBelt Cura**, una versión modificada de Cura para este tipo de impresoras (ventajas de usar software libre)
+
+![](https://content.instructables.com/ORIG/F4P/9W31/KNQ1EGK8/F4P9W31KNQ1EGK8.jpg?auto=webp&frame=1&width=800&height=1024&fit=bounds&md=d0375e167c1fc5d469caf8b17478bb04)
 
