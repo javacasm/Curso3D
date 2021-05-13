@@ -15,66 +15,66 @@
 ## Temario:
 
 1. Introducción a la impresión 3D
-    Historia de la impresión 3D
-    Aplicaciones
-    Tecnologías de impresión 3D
-    ¿Qué modelo comprar?
-    Proceso de impresión
-        Preparación impresora
-        Preparación del modelo
-        Impresión
+* Historia de la impresión 3D
+* Aplicaciones
+* Tecnologías de impresión 3D
+* ¿Qué modelo comprar?
+* Proceso de impresión
+    * Preparación impresora
+    * Preparación del modelo
+    * Impresión
 
 2. Qué imprimir: modelos y tipos de filamentos
-    ¿Dónde encontrarlos? 
-    Repositorios de diseños
-    Tipos de filamentos
+* ¿Dónde encontrarlos? 
+* Repositorios de diseños
+* Tipos de filamentos
 
 3. Cómo imprimir: Laminadores
-    Laminadores/Slicers
-    Ultimaker Cura 
-    Prusa Slicer
-    Programas "reparadores" de piezas
+* Laminadores/Slicers
+* Ultimaker Cura 
+* Prusa Slicer
+* Programas "reparadores" de piezas
 
 4. Estructura y modelos de Impresoras 3D
-    Arquitecturas
-    Componentes
-    Montaje y puesta a punto
-    Estructura de una impresora
-    Montaje
-    Calibración
-    Pruebas
+* Arquitecturas
+* Componentes
+* Montaje y puesta a punto
+* Estructura de una impresora
+* Montaje
+* Calibración
+* Pruebas
 
 5. Uso normal de la impresora
-    Menús
-    Cambio filamento
-    Calibraciones
+* Menús
+* Cambio filamento
+* Calibraciones
 
 6. Mejorando la calidad de las impresiones
-    Optimzaciones de calidad
-    Optimización de velocidad
-    Impresiones de Gran Formato
-    Cajas para la impresora
-    Proyectos complejos
+* Optimzaciones de calidad
+* Optimización de velocidad
+* Impresiones de Gran Formato
+* Cajas para la impresora
+* Proyectos complejos
 
 7. Mantenimiento y Cuidados
-    Limpieza
-    Engrasado
-    Ajustes
+* Limpieza
+* Engrasado
+* Ajustes
 
 8. Resolución de Problemas más frecuentes
-    Atascos
-    Falta de calibración
-    Falta de adherencia
-    Problemas por falta de tensión de las correas
-    Rotura o falta de ajuste de driver de motores
-    Fallos de impresión
+* Atascos
+* Falta de calibración
+* Falta de adherencia
+* Problemas por falta de tensión de las correas
+* Rotura o falta de ajuste de driver de motores
+* Fallos de impresión
 
 9. Introducción al diseño 3D
-    Programas de diseño
-    Diseñando con Tinkercad
-    Freecad 
-    Sketchup
-    Blender
-    BlockScad
-    OpenScad
+* Programas de diseño
+* Diseñando con Tinkercad
+* Freecad 
+* Sketchup
+* Blender
+* BlockScad
+* OpenScad
 
