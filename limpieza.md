@@ -1,0 +1,1 @@
+limpieza del exterior de la boquilla en caliente y usando un cepillo metálico pero de cerdas finas. Personalmente uso estropajo metálico doméstico de tipo "nanas"
