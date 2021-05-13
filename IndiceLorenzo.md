@@ -12,47 +12,67 @@
 
 ## Temario:
 
-0. Introducción a la impresión 3D
-1. Uso
+1. Introducción a la impresión 3D
+    Historia de la impresión 3D
+    Aplicaciones
+    Tecnologías de impresión 3D
+    ¿Qué modelo comprar?
     Proceso de impresión
-    Preparación impresora
-    Preparación del modelo
-    Impresión
-2. Modelos 3D
+        Preparación impresora
+        Preparación del modelo
+        Impresión
+
+2. Modelos 3D y tipos de Filamentos
     ¿Dónde encontrarlos? 
     Repositorios de diseños
+    Tipos de filamentos
+
 3. Programas para imprimir
     Laminadores/Slicers
-    Cura 
+    Ultimaker Cura 
     Prusa Slicer
-    "Arregladores" de piezas
-4. Tipos de filamentos
-    Tipos
-    Usos
-    Calidades y precios
-5. Montaje y puesta a punto
+    Programas "reparadores" de piezas
+
+4. Modelos de impresoras 3D
+    Arquitecturas
+    Componentes
+    Montaje y puesta a punto
     Estructura de una impresora
     Montaje
     Calibración
     Pruebas
-6. Uso de la impresora
+    
+5. Uso normal de la impresora
     Menús
-    AutoHome y calibración
-    Impresión
     Cambio filamento
+    Calibraciones
+
+6. Mejorando la calidad de las impresiones
+    Optimzaciones de calidad
+    Optimización de velocidad
+    Impresiones de Gran Formato
+    Cajas para la impresora
+    Proyectos complejos
+
 7. Mantenimiento
     Limpieza
     Engrasado
     Ajustes
-    Tensión de las correas
+
 8. Problemas más frecuentes
     Atascos
     Falta de calibración
-    Falta de tensión de las correas
+    Falta de adherencia
+    Problemas por falta de tensión de las correas
     Rotura o falta de ajuste de driver de motores
     Fallos de impresión
+
 9. Diseño 3D
     Programas de diseño
     Diseñando con Tinkercad
     Freecad 
     Sketchup
+    Blender
+    BlockScad
+    OpenScad
+
