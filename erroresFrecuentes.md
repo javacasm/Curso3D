@@ -1,0 +1,17 @@
+## Errores frecuentes
+
+Cambiar en la configuración del laminador el grosor del filamento que estamos usando:
+* Si nuestra impresora usa filamento de 2.85/3mm y ponemos en la configuración 1.75mm, el resultado será una figura esponjosa, por falta de filamento
+* Si lo hacemos alrevés al tener exceso de filamento veremos que la impresión es tosca, mezclándose unas partes con otras.
+
+Las impresoras están preparadas para usar sólo un grosor de filamento y si intentamos usar otro se producen este tipo de cosas...
+
+![Error al usar filamento](./images/errorFilamento1.png)
+
+![](./images/errorFilamento2.png)
+
+Ahora hay que extraer ese filamento arrugado del extrusor y del fusor, lo cuál pienso que no va ser sencillo y limpiarlo bien internamente porque seguro que se quedan restos
+
+El diámetro del filamento es una característica esencial del extrusor y para utilizar uno distinto tenemos que adaptarlo.
+
+Sí que existen adaptadores pero eso no es tan sencillo como poner un tubito.
