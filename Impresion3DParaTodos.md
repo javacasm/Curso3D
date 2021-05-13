@@ -1,3 +1,5 @@
+# Impresión 3D para todos
+
 ## Objetivos
 
 * Conocer y analizar las posibilidades y capacidades del diseño e impresión en 3D.
@@ -22,18 +24,18 @@
         Preparación del modelo
         Impresión
 
-2. Modelos 3D y tipos de Filamentos
+2. Qué imprimir: modelos y tipos de filamentos
     ¿Dónde encontrarlos? 
     Repositorios de diseños
     Tipos de filamentos
 
-3. Programas para imprimir
+3. Cómo imprimir: Laminadores
     Laminadores/Slicers
     Ultimaker Cura 
     Prusa Slicer
     Programas "reparadores" de piezas
 
-4. Modelos de impresoras 3D
+4. Estructura y modelos de Impresoras 3D
     Arquitecturas
     Componentes
     Montaje y puesta a punto
@@ -41,7 +43,7 @@
     Montaje
     Calibración
     Pruebas
-    
+
 5. Uso normal de la impresora
     Menús
     Cambio filamento
@@ -54,12 +56,12 @@
     Cajas para la impresora
     Proyectos complejos
 
-7. Mantenimiento
+7. Mantenimiento y Cuidados
     Limpieza
     Engrasado
     Ajustes
 
-8. Problemas más frecuentes
+8. Resolución de Problemas más frecuentes
     Atascos
     Falta de calibración
     Falta de adherencia
@@ -67,7 +69,7 @@
     Rotura o falta de ajuste de driver de motores
     Fallos de impresión
 
-9. Diseño 3D
+9. Introducción al diseño 3D
     Programas de diseño
     Diseñando con Tinkercad
     Freecad 
