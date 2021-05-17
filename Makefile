@@ -18,7 +18,7 @@ m1:
 					-o  $(m1)  \
 					Cabecera.md        \
 					Cabecera_latex.md \
-					0.0.Impresion3DParaTodos \
+					0.0.Impresion3DParaTodos.md \
 					0.0.Introduccion3D.md \
 					0.1.Historia.md \
 					0.2.Aplicaciones.md \
