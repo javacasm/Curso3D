@@ -1,3 +1,17 @@
+### Recursos materiales
+
+[Wood - Roble](https://sakata3d.com/es/pla-texture/151-texture-wood-roble.html)
+
+[Granito](https://sakata3d.com/es/pla-texture/153-texture-granito.html)
+
+[Tipos de materiales](https://bitfab.io/es/materiales-de-impresion-3d-fdm/)
+
+
+#### Recursos modelos
+
+[Dónde encontrar modelos 3D](https://www.creativosonline.org/blog/los-mejores-lugares-encontrar-plantillas-impresion-3d.html)
+
+
 ### Tecnogloias ce impresión
 
 
