@@ -1,3 +1,18 @@
+### Tecnogloias ce impresión
+
+
+[Tecnologías de impresoras 3D](http://tecnologiadelosplasticos.blogspot.com.es/2013/02/impresion-3d.html):
+
+[Tecnologías de impresión 3D](http://www.xataka.com/perifericos/estas-son-las-tecnologias-de-impresion-3d-que-hay-sobre-la-mesa-y-lo-que-puedes-esperar-de-ellas)
+
+
+[Impresión 3d en wikipedia](http://es.wikipedia.org/wiki/Impresi%C3%B3n_3D)
+
+
+[Tipos de impresoras 3D](http://comohacer.eu/comparativa-impresoras-3d/#Tipos_de_impresion_3D)
+
+## Otros
+
 [3D Builder](https://bitfab.io/es/blog/3d-builder/)
 [Tutorial sobre Prusa Slicer de los expertos de bitfab.io](https://bitfab.io/es/blog/prusa-slicer/)
 
