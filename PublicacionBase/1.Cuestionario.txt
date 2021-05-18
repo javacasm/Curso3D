@@ -1,0 +1,34 @@
+# Tema 1 - Introducción a la impresión 3D
+
+## Cuestionario
+
+1. Las impresoras 3D...
+* a) Existen desde hace tiempo, pero un tema de patentes no las hizo accesibles al público hasta hace pocos años
+b) Son un invento del siglo XXI
+c) Han existido desde la Revolución Industrial
+d) Aparecieron el año pasado
+
+2. Una impresora 3D...
+a) Genera un objeto físico desde una idea
+* b) Genera un objeto físico a partir de un diseño que es convertido en instrucciones concretas
+c) Genera un modelo a partir de un diseño
+d) Genera una visualización 3D de un modelo 2D
+
+3. La tecnología FDM...
+a) Se basa en solidficar un material pulverizado por medio de calor
+b) Se basa en depositiar un plástico por medio de ondas de sonido
+* c) Se basa en depositor un material fundido generando un hilo en forma de capas
+d) Utiliza un laser para calentar un material que funde
+
+
+4. El proyecto RepRap...
+* a) Nació con la idea de permitir generar prototipos fácilmente.
+b) Nació con la idea de evitar el uso de patentes
+c) Es un proyecto comercial para vender productos
+d) Trata de incrementar el coste del prototipos
+
+5. La impresoras de tecnologías DLP...
+a) Se usan menos porque son muy lentas
+* b) Se usan menos hoy en día por el coste de las resinas que utilizan
+c) Se usan más que las FDM
+d) No se utilizan nada hoy en día
