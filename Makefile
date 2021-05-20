@@ -80,9 +80,10 @@ m5:
 					-o  $(m5)  \
 					Cabecera.md        \
 					Cabecera_latex.md \
-					5.0.Uso_creality3.md \
-					5.0.Uso_i3.md \
-					5.0.Uso_Kingroom_kp3s.md
+					5.0.UsoImpresoras3D.md \
+					5.1.Uso_i3.md \
+					5.2.Uso_creality3.md \					
+					5.3.Uso_Kingroom_kp3s.md
 
 m6:
 	pandoc --latex-engine=xelatex   \
@@ -141,3 +142,5 @@ m9:
 
 clean:
 	rm $(m1) $(m2) $(m3) $(m4) $(m5) $(m6) $(m7) $(m8) $(m9)
+
+
