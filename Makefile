@@ -45,14 +45,11 @@ m3:
 					Cabecera.md        \
 					Cabecera_latex.md \
 					3.0.Slicers.md \
-					3.1.Cura_v2.md \
-					3.2.PrusaSlicer_v2.md \
-					3.3.AjustePiezas.md \
-					3.4.ReparacionPiezas_v2.md \
-					3.5.Modificadores.md \
+					3.1.Cura.md \
+					3.2.PrusaSlicer.md \
 					3.6.Multicolor.md \
 					3.7.soportes.md \
-					3.8.DiferenciaBuenaAdherencia.md
+
 
 m4:
 	pandoc --latex-engine=xelatex   \
