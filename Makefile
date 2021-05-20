@@ -47,7 +47,6 @@ m3:
 					3.0.Slicers.md \
 					3.1.Cura.md \
 					3.2.PrusaSlicer.md \
-					3.6.Multicolor.md \
 					3.7.soportes.md \
 
 

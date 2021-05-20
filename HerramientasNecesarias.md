@@ -3,6 +3,7 @@ Hoy en día casi todos las impresoras incluyen las herramientas necesarias para 
 * Alicates de corte
 * Llaves allen de distintos tamaños
 * Llaves fijas
+* Espátula
 
 Para la limpieza
 
