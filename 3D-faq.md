@@ -16,3 +16,20 @@
 
 ¿Siempre salen bien las impresiones? No, pero cuánto más imprimes mejor salen. [Fallos de impresón](./7.5.FallosImpresion.md)
 
+
+¿Qué necesito?
+* ordenador
+* Puedes usar programas gratuitos que necesitas descargar de internet
+* Los modelos los puedes descargar de internet también
+
+
+¿Herramietnas?
+
+
+
+¿qué impresora comprar?
+
+1. Espacio que tienes
+1. Conocimientos
+1. Presupuesto
+1. ¿Vas a darle un uso intensivo?

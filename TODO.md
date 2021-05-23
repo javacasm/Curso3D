@@ -1,4 +1,11 @@
 
+Mostrar mi a cosas impresas
+mostrar el interior de la impresora Kingroon KP3s
+
+
+Modo vaso
+
+
 # Adherencia
 
 Uso de la base
