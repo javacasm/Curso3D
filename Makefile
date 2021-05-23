@@ -60,8 +60,9 @@ m4:
 					4.0.0.EstructuraImpresora3D.md \
 					4.0.1.ComponentesImpresora3D.md \
 					4.0.2.TiposExtrusores.md \
-					4.1.0.Impresoras3D.md \
-					4.1.1.Geometrias.md \
+					4.0.3.Kits.md \
+					4.1.0.Geometrias.md \
+					4.1.1.Impresoras3D.md \
 					4.1.2.Modelos.md \
 					4.1.3.Prusa_i3.md \
 					4.1.4.CrealityEnder3v2.md \
