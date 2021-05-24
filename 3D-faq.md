@@ -33,3 +33,6 @@
 1. Conocimientos
 1. Presupuesto
 1. ¿Vas a darle un uso intensivo?
+
+¿Qué hacemos con el material de soporte, piezas defectuosas...
+¿Reciclar?
