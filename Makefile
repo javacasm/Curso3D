@@ -49,7 +49,6 @@ m3:
 					3.2.PrusaSlicer.md \
 					3.7.soportes.md \
 
-
 m4:
 	pandoc --latex-engine=xelatex   \
 					-V papersize:a4paper    \
@@ -62,17 +61,15 @@ m4:
 					4.0.2.TiposExtrusores.md \
 					4.0.3.Kits.md \
 					4.1.0.Geometrias.md \
-					4.1.1.Impresoras3D.md \
+					4.1.1.EjeZ.infinito.md \
 					4.1.2.Modelos.md \
 					4.1.3.Prusa_i3.md \
 					4.1.4.CrealityEnder3v2.md \
 					4.1.5.Kingroon_KP3s.md \
 					4.1.6.ArtilleryGenius.md \
+					4.1.6.Witbox2.md \
 					4.2.Montaje_Ender3.md \
-					4.2.Montaje.Kingroon_KP3s.md \
-					4.5.Witbox2.md \
-					4.6.EjeZ.infinito.md \
-					4.7.multifilamento.md
+					4.2.Montaje.Kingroon_KP3s.md
 
 m5:
 	pandoc --latex-engine=xelatex   \
