@@ -90,24 +90,26 @@ m6:
 					-o  $(m6)  \
 					Cabecera.md        \
 					Cabecera_latex.md \
-					6.0.Mejoras.md \
-					6.1.Cura_avanzado.md \
-					6.2.PrusaSlicer_v2.md \
-					6.3.AjustePiezas.md \
-					6.3.Proyectos3D.md \
-					6.5.2.Cajas.md \
-					6.5.MejoraCalidad.md \
-					6.5.Modificadores.md \
-					6.6.Multicolor.md \
-					6.7.multifilamento.md \
-					6.7.Escaneado3D.md \
-					6.8.ImpresionesGranFormato.md \
-					6.9.presupuestos.md \
-					6.9.SoportesAvanzados.md \
-					6.8.DiferenciaBuenaAdherencia.md \
-					6.9.MejorasHardware.md \
-					6.9.Mejoras_kp3s.md
-
+					6.0.0.Mejoras.md \
+					6.0.1.TestCalidad.md \
+					6.0.2.Adherencia.md \
+					6.0.3.PosicionMpresion.md \
+					6.0.4.Relleno.md \
+					6.0.5.FaltaFilamento.md \
+					6.1.0.PrusaSlicer.md \
+					6.2.Cura_avanzado.md \
+					6.3.0.ImpresionPieza.md \
+					6.3.1.Modificadores.md \
+					6.3.2.AjustePiezas.md \
+					6.3.3.Multicolor.md \
+					6.3.4.SoportesAvanzados.md \
+					6.3.5.CapasSuperioresInferiores.md \
+					6.4.ImpresionesGranFormato.md \
+					6.5.ImpresionFilamentos.md \
+					6.6.Proyectos3D.md \
+					6.9.0.MejorasHardware.md \
+					6.9.1.Mejoras_kp3s.md \
+					6.9.4.Cajas.md
 
 m7:
 	pandoc --latex-engine=xelatex   \
@@ -152,6 +154,3 @@ m9:
 
 clean:
 	rm $(m1) $(m2) $(m3) $(m4) $(m5) $(m6) $(m7) $(m8) $(m9)
-
-
-
