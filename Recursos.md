@@ -6,6 +6,14 @@
 
 [Tipos de materiales](https://bitfab.io/es/materiales-de-impresion-3d-fdm/)
 
+## Recursos Cura
+
+[Megatutorial Cura](https://of3lia.com/ultimaker-cura/)
+
+[Tutorial sobre Cura de los expertos de bitfab.io](https://bitfab.io/es/blog/tutorial-laminado-cura/)
+
+[Mega tutorial](https://formizable.com/mega-tutorial-de-cura-profundizando-en-cura-3d-slicer/)
+
 
 #### Recursos modelos
 
