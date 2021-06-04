@@ -96,16 +96,13 @@ m6:
 					6.0.3.PosicionMpresion.md \
 					6.0.4.Relleno.md \
 					6.0.5.FaltaFilamento.md \
-					6.1.0.PrusaSlicer.md \
+					6.1.0.PrusaSlicer_avanzado.md \
 					6.2.Cura_avanzado.md \
 					6.3.0.ImpresionPieza.md \
 					6.3.1.Modificadores.md \
 					6.3.2.AjustePiezas.md \
 					6.3.3.Multicolor.md \
-					6.3.4.SoportesAvanzados.md \
-					6.3.5.CapasSuperioresInferiores.md \
-					6.4.ImpresionesGranFormato.md \
-					6.5.ImpresionFilamentos.md \
+					6.3.3.TorreCalibracion.md \
 					6.6.Proyectos3D.md \
 					6.9.0.MejorasHardware.md \
 					6.9.1.Mejoras_kp3s.md \
@@ -154,3 +151,4 @@ m9:
 
 clean:
 	rm $(m1) $(m2) $(m3) $(m4) $(m5) $(m6) $(m7) $(m8) $(m9)
+
