@@ -1,17 +1,19 @@
 
+## Estructura impresora
+
+Vídeo original: "/media/discos/videos/3D/5.0 estructura impresora.mp4"
+Casi editado /home/javacasm/Vídeos/3D/4.x.EstructuraImpresora
+Estructura de cartesiana y en especial ender 3 v2
+
+## EJemplos
+
 Mostrar mi a cosas impresas
 mostrar el interior de la impresora Kingroon KP3s
 
 
+## Configuraciones de impresión
+
 Modo vaso
-
-
-# Adherencia
-
-Uso de la base
-* cristal/lamina magnética
-* laca
-
 
 
 
