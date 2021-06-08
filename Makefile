@@ -103,6 +103,7 @@ m6:
 					6.3.2.AjustePiezas.md \
 					6.3.3.Multicolor.md \
 					6.3.3.TorreCalibracion.md \
+					6.5.ImpresionFilamentos.md \
 					6.6.Proyectos3D.md \
 					6.9.0.MejorasHardware.md \
 					6.9.1.Mejoras_kp3s.md \
