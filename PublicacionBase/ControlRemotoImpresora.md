@@ -1,2 +1,0 @@
-Octoprint
-cámaras remotas
