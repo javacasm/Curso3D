@@ -116,9 +116,10 @@ m7:
 					-o  $(m7)  \
 					Cabecera.md        \
 					Cabecera_latex.md \
+					7.0.limpieza.md \
+					7.4.0.Mantenimiento.md \
 					7.4.2.Cuidados.md \
-					7.4.Mantenimiento.md \
-					7.limpieza.md \
+					7.5.0.ControlRemotoImpresora.md \
 					7.10.firmware.md
 
 m8:
