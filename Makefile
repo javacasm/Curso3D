@@ -116,11 +116,15 @@ m7:
 					-o  $(m7)  \
 					Cabecera.md        \
 					Cabecera_latex.md \
-					7.0.limpieza.md \
+					7.0.Mantenimiento.md \
+					7.1.limpieza.md \
 					7.4.0.Mantenimiento.md \
 					7.4.2.Cuidados.md \
 					7.5.0.ControlRemotoImpresora.md \
+					7.5.1.Octoprint.md \
 					7.10.firmware.md
+
+			
 
 m8:
 	pandoc --latex-engine=xelatex   \
@@ -153,4 +157,5 @@ m9:
 
 clean:
 	rm $(m1) $(m2) $(m3) $(m4) $(m5) $(m6) $(m7) $(m8) $(m9)
+
 
