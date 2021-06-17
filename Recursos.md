@@ -1,3 +1,7 @@
+### actualizacion firmware
+
+https://3daddict.com/marlin-2-0-beginner-guide-for-3d-printer-firmware/
+
 ### Recursos materiales
 
 [Wood - Roble](https://sakata3d.com/es/pla-texture/151-texture-wood-roble.html)
