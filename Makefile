@@ -133,11 +133,12 @@ m8:
 					-o  $(m8)  \
 					Cabecera.md        \
 					Cabecera_latex.md \
-					8.0.FallosImpresion.md \
+					8.0.0.FallosImpresion.md \
+					8.1.ErroresPorFilaamento.md \
 					8.2.Atascos.md \
-					8.2.ReconfiguracionEnCaliente.md \
 					8.3.erroresFrecuentes.md \
-					8.6.ProblemasMasFrecuentes.md
+					8.5.ReconfiguracionEnCaliente.md
+
 
 m9:
 	pandoc --latex-engine=xelatex   \
