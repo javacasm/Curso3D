@@ -148,15 +148,14 @@ m9:
 					Cabecera.md        \
 					Cabecera_latex.md \
 					9.0.HerramientasDiseño3D.md \
-					9.2.Tinkercad.md \
+					9.2.0.Tinkercad.md \
 					9.3.Freecad.md \
 					9.4.Blender.md \
-					9.5.BlockScad.md \
-					9.6.SketchUp.md \
+					9.5.SketchUp.md \
+					9.6.BlockScad.md \
 					9.7.OpenScad.md \
-					9.9.2d-To-3D.md
+					9.8.Otros.md \
+					9.10.Escaneado3D.md
 
 clean:
 	rm $(m1) $(m2) $(m3) $(m4) $(m5) $(m6) $(m7) $(m8) $(m9)
-
-

@@ -1,3 +1,77 @@
+## Escanner
+
+
+[Fotogrametría I](https://blog.prusaprinters.org/photogrammetry-3d-scanning-just-phone-camera/)
+
+[Fotogrametría I (vídeo)](https://www.youtube.com/watch?v=ye-C-OOFsX8)
+
+[Fotogrametría II](https://blog.prusaprinters.org/photogrammetry-2-3d-scanning-simpler-better-than-ever/)
+
+[Fotogrametría II (vídeo)](https://www.youtube.com/watch?v=1D0EhSi-vvc)
+
+
+[Tutorial](https://descubrearduino.com/que-es-el-escaneo-3d-definicion-ventajas-y-usos/)
+
+
+## OpenScad
+
+[Polígonos](https://tecnoloxia.org/impresion3d/extrusion_poligonos/)
+
+[Figuras 3D](https://tecnoloxia.org/impresion3d/figuras-3d/)
+
+[Transformaciones y operaciones](https://tecnoloxia.org/impresion3d/transformacions/)
+
+[Bucles y repeticiones](https://tecnoloxia.org/impresion3d/bucles/)
+
+[Funciones](https://tecnoloxia.org/impresion3d/funcions/)
+
+## Blockscad
+
+
+#### Videotutoriales de Jorge Lobo
+
+[Parte 1](https://www.youtube.com/watch?v=l80gO9sqZ1g&feature=youtu.be)
+
+[Parte 2](https://www.youtube.com/watch?v=Fhsd4bp3f98)
+
+
+
+## Blender
+
+[Chuletario de Blender](http://www.giudansky.com/design/51-blender-map)
+
+[Tutorial](https://www.instructables.com/id/Beginners-Guide-to-Blender/)
+
+[Introducción a blender (cgcookie)](https://cgcookie.com/flow/introduction-to-blender/)
+
+[cgcookie](https://cgcookie.com/learn-blender/)
+
+[blenderguru](http://www.blenderguru.com/)
+
+[Guia para la versión 2.5](https://joaclintistgud.wordpress.com/2009/11/27/blender-guia-de-iniciacion-para-recien-llegados-adaptada-a-la-version-2-5/)
+
+### Videos:
+
+[Creando a partir de fotos una cabeza](https://www.youtube.com/watch?v=HODBe1adzUQ)
+
+[Diseñando una cabeza](https://www.youtube.com/watch?v=pQVfissJSe4)
+
+[Diseñando una camiseta](https://www.youtube.com/watch?v=Ih2EakutydA)
+
+[Diseñando ropa](https://www.youtube.com/results?search_query=blender+design+clothes)
+
+[Diseñando un zapato](https://www.youtube.com/watch?v=aV6AoxOkX8w)
+
+[Diseñando a Angelina Jolie](https://www.youtube.com/watch?v=Vu6jdSaSVyo)
+
+
+### Freecad
+
+[Tutorial rápido](http://spainlabs.com/wiki/index.php?title=Tutorial_r%C3%A1pido_de_FreeCad)
+
+[Manual de FreeCad](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details)
+
+
 ### actualizacion firmware
 
 https://3daddict.com/marlin-2-0-beginner-guide-for-3d-printer-firmware/
