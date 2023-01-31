@@ -96,6 +96,7 @@ m6:
 					6.0.3.PosicionMpresion.md \
 					6.0.4.Relleno.md \
 					6.0.5.FaltaFilamento.md \
+					6.0.8.Costura.md \
 					6.1.0.PrusaSlicer_avanzado.md \
 					6.2.Cura_avanzado.md \
 					6.3.0.ImpresionPieza.md \
