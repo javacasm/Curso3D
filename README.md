@@ -4,6 +4,9 @@
 
 ![CCbySA](images/CCbySQ_88x31.png)
 
+## [https://bit.ly/3DCurso](https://bit.ly/3DCurso)
+
+
 ## Introducción a la impresión 3D
 
 Se trata un curso práctico en el que los participantes aprendan a utilizar el Software necesario para Diseñar en 3D y para trabajar con impresoras 3D.
