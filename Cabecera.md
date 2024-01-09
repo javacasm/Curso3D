@@ -1,16 +1,11 @@
 # Impresión 3D para Todos
 
 
-## Versión 0.99
+## Versión 0.99.1 - Enero 2024
 
 
 ![Licencia CC by SA](./images/Licencia_CC_peque.png) 
 
-## by @javacasm
+by @javacasm - José Antonio Vacas Martínez
 
-
-### José Antonio Vacas Martínez
-
-### https://elCacharreo.com
-
-## Junio 2021
+[https://elCacharreo.com](https://elCacharreo.com)
