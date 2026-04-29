@@ -39,7 +39,8 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 * [Guía Rápida](./0.5.GuiaRapida.md)
 
 ## 2. Modelos
-* [Repositorios de diseños](./2.0.Repositorios.md)
+* [Repositorios de diseños](./2.0.0.Repositorios.md)
+* [Otros repositorios](./2.0.1.Otros_Repositorios.md)
     
 ## 3. Programas para imprimir
 * [Slicers](./3.0.Slicers.md)
